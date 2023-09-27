@@ -1,6 +1,7 @@
 <div align=center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&pause=4000&color=1B9022&center=true&width=1000&lines=Jo%2C+I'm+Mika&duration=6000" alt="Typing SVG" /></a>
 </div>
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="The Unlimited" width = 100%/>
 <div align=center>
 <a href="https://github.com/mishaqq/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mishaqq&custom_title=Stats&show_icons=true&include_all_commits=true&theme=dark&rank_icon=github" />
