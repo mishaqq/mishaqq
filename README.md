@@ -1,10 +1,14 @@
-### Hi there 👋
+<div align=center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&pause=4000&color=1B9022&center=true&width=1000&lines=Jo%2C+I'm+Mika&duration=6000" alt="Typing SVG" /></a>
+</div>
+<div align=center>
 <a href="https://github.com/mishaqq/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mishaqq" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mishaqq&custom_title=Stats&show_icons=true&include_all_commits=true&theme=dark&rank_icon=github" />
 </a>
 <a href="https://github.com/mishaqq/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mishaqq&layout=compact&langs_count=8&card_width=200&hide=TeX" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mishaqq&layout=compact&langs_count=8&card_width=200&hide=TeX&theme=dark" />
 </a>
+</div>
 <!--
 **mishaqq/mishaqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
